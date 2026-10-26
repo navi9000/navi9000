@@ -15,6 +15,7 @@ Below are my projects highlighting my skills
 
 ### Vue
 - https://github.com/navi9000/autoexpert Live: https://navi9000.github.io/autoexpert/ (nuxt.js, vue-router)
+- https://github.com/navi9000/parser (vue-router)
 
 ### Vanilla HTML/CSS/JS
 - https://github.com/navi9000/cassiopea Live: https://navi9000.github.io/cassiopea/
