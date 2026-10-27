@@ -21,7 +21,7 @@ Below are my projects highlighting my skills
 - https://github.com/navi9000/cassiopea Live: https://navi9000.github.io/cassiopea/
 - https://github.com/navi9000/cards Live: https://cards-black-eight.vercel.app/
 - https://github.com/navi9000/crowd Live: https://navi9000.github.io/crowd/
-- https://github.com/navi9000/bear_club (mvc, rollup)
+- https://github.com/navi9000/bear_club (mvc, rollup) Live: https://navi9000.github.io/bear_club/
 
 ### Node.js
 - https://github.com/navi9000/construction (express, sequelize)
